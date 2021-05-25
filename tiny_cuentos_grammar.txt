@@ -1,0 +1,59 @@
+{
+	"origin": ["#[h:#heroe#][h2:#antago#]modelo#"],
+	"modelo":["#story#","#story#","#story#","#viaje#","#meta#"],
+	"story": ["#storyintrans#","#storytrans#"],
+	"storyintrans":["#tiempo.capitalize# #intrans#. #revela.capitalize#. #sensa.capitalize#.#final#... al menos hasta la próxima noche."],
+	"storytrans": ["#tiempo.capitalize# #trans# #obj#. #antago.capitalize# #frustra#. #sensa.capitalize#.#final#... al menos hasta la próxima noche."],
+	"viaje": ["Literatura de viaje: un #h# se marcha #transp#. En el camino #ve# #heroes#, #animal#s, #heroes#.#finalviaje# y el retorno es imposible... al menos hasta la próxima noche."],
+	"meta":["Metamorfosis: un #h# #metamorf#. #cambio.capitalize# de #cuerpo#, #cambio# de #cuerpo##cambio2#. #dios# interviene: 'Oh, #h#, #epit#...' Cuando llega #hora#, el #h# vuelve a ser #h#... al menos hasta la próxima noche."],
+
+	"tiempo" : ["un #h#", "un #h# de espíritu #adj#", "cuentan #relato# de un #h# que","#relato.capitalize# de un #h# que", "en otro tiempo, un #h#", "cuando cae la tarde, un #h#", "en #estacion# de #ano#, un #h#", "un día cualquiera, un #h#", "#estacion#. Un #h#", "hace no tanto tiempo, un #h#", "año #ano#. Un #h#", "un #h# venido de un mundo #adj#"],
+
+	"heroe":["#heroe1#", "#heroe2#"],
+	"heroe1": ["héroe", "joven #adj#", "ciego", "misántropo", "anciano", "señor K", "#heroe# con #cuerpo# de #animal#","#prep##heroe#", "jabberwocky"],
+	"heroe2":["astronauta", "mago", "guerrero", "cronopio", "brujo", "escritor",  "buzo", "cirujano", "político", "#animal#","muñeco","monstruo"],
+	"animal":["#animal1#","#animal2#"],
+	"animal1":["búho", "burro", "hipocampo", "hipopótamo", "toro", "pájaro", "cascarudo","nabo"],
+	"animal2":["repollo", "canguro", "murciélago","#prep##animal#","conejo","elefante"], 
+	"cuerpo":["orejas", "ojos", "pelo", "expresión", "dientes", "lengua", "manos", "silueta","alma","uñas","piernas"],
+	"prep":["hiper","super","anti","meta","nano","pseudo","archi"],
+	"transp":["en barco","por el mar","al desierto","al campo","al espacio","al submundo","montado a lomos de un #animal#","de un país #adj#","por ansias de #obj#","al país de los sueños"],
+	"heroes":["ciegos", "corruptos", "misántropos", "astronautas", "ancianos", "magos", "brujos", "escritores", "políticos", "#heroes# con #cuerpo# de #animal#", "soldados", "guerreros", "buzos", "cirujanos", "#animal#s", "jabberwockys","hombres #adj#s","héroes","niños #adj#s"],
+	"dios":["Zeus", "Hera", "Poseidón", "Ares", "Afrodita", "Atenea", "Apolo", "Dioniso", "Eros"],
+	
+	"antago":["#antago1#","#antago2#"],
+	"antago1":["la vida", "el tiempo", "su padre", "un espectro", "un enemigo secreto", "una vieja amiga", "un mundo #adj#","el pasado", "la mala suerte", "#antago1# (que es otro #h#)"],
+	"antago2":["con un dejo de #causa2#, #antago1#", "#antago1# se rebela por #causa2# y","una sombra de #causa2#", "un anti#h#","un pensamiento #adj#","su problema es #antago1#, que"],
+	
+	"adj":["angustiado", "triste", "anónimo", "corrupto", "abandonado", "siniestro", "espectral", "tétrico", "sombrío", "extraño", "confuso", "quebradizo", "transparente", "evanescente", "quijotesco", "errático", "atribulado","absurdo","platónico","dantesco"],
+	"adj+":["eufórica", "alegre", "excéntrica", "centrífuga","luminosa", "ligera", "sincera","fuerte","poderosa","lúcida","con cuello en forma de '?'","con dedos en forma de '!'","con ojos en forma de '@'"],
+	"adja":["agria", "reprimida", "oscura", "húmeda","fría","tenebrosa"],
+	"epit":["fecundo en ardides", "de níveos brazos", "de veloces pies", "de hermosos tobillos", "de hermosas grebas", "de larga cabellera", "semejante a los dioses", "destructor de hombres", "asolador de ciudades", "de ojos de lechuza", "de azafranado vuelo", "de rosáceos dedos", "de bella cintura", "que sacude la tierra", "de doradas alas", "igual a un dios", "altitonante","que amontona las nubes"],
+	
+	"estacion": ["primavera", "otoño", "verano", "invierno"],
+	"ano":["1974", "1998", "2014","2017","36 a.C.","2036", "1969","1978","1982"],
+	"relato":["el cuento", "la historia", "la fábula", "la alegoría", "la leyenda"],
+	
+	"ve":["ve", "encuentra", "dialoga con", "conoce", "intima con", "es ayudado por", "ayuda a", "se une a", "peregrina con","lucha contra"],
+	"cambio":["cambio", "pérdida", "olvido", "transformación","dolor","desaparición","desvanecimiento","mutación"],
+	"cambio2":[", ardor",", tristeza",", amputación", ", melancolía",", extrañeza",", sorpresa", ", desgarro"],
+	"trans": ["necesita","sueña con", "pretende", "busca", "quiere", "ansía"],
+	"intrans":["sufre por #causa2#", "baila sin pausa por #causa2#","se aleja para #obj#", "desaparece", "se siente #adj#","trama algo #adj#","se marcha #transp#","#trans# contar los átomos de un #animal#","#trans# dialogar con un #animal#"],
+	"revela":["#causa2# de #h# en #hora#", "no es #causa2# ni #causa2#: solo ser #h#","no quiere ser un #h# cualquiera","#antago1# y #antago1# deben quedar en el olvido","es la ley del #h#","'Soy un #h#: es mi destino', piensa","y parece así un #heroe2# más que un #h#","escucha una voz que le susurra: '¡#causa2.capitalize#!'"],
+	"metamorf":["crece entre #animal1#s y #animal2#s","comienza a convertirse en #animal#","imita el canto del #animal#", "se enamora de un #animal#", "persigue a un #animal# para ser como él","se cree #animal#","anhela ser #animal#","nace de un #animal# y un #heroe#"],
+
+	"frustra":["#simple#","#comp#"],
+	"simple":["lo perturba", "se burla de él", "busca lo contrario", "quiere impedirlo", "se le interpone", "lo obsesiona", "lo hace sentir #adj#", "se ensaña con él", "lo esquiva"],
+	"comp":["#simple##causa#"],
+	
+	"causa":[", acaso por #causa2#"," por #causa2#", ", sin duda por #causa2#", ", quién sabe por qué","","","",""," sin dar explicaciones",", misteriosamente"],
+	"causa2":["miedo", "culpa", "egoísmo", "crueldad", "venganza", "rencor", "ignorancia","envidia","ambición","terror", "cinismo"],
+	"obj":["tener una idea #adj+#", "sentir cosas #adj+#s","tener amantes","recibir caricias","estar solo","realizarse","salir de la apatía", "encontrar una vocación", "descubrir el sentido", "vivir una experiencia #adj+#", "convertir un #animal# en #heroe#"],
+
+	"hora":["la noche", "la mañana", "la tarde", "la primavera", "el invierno", "el otoño", "el verano", "el momento #adj#", "la hora #adja#", "la estación #adja#"],
+
+	"sensa":["entonces llega #hora#: #sensa#", "miradas cruzadas", "suspiros", "rabia contenida", "una señal #adja#", "de repente, risotada #adja#","gestos en la sombra","el #h# se siente #adj# y lo contrario a la vez", "se convierte así en un #h# #adj#", "mirada #adja#","el deseo cambia de lado","#relato# se tuerce"],
+	"final":[" Y así se dilata el tiempo", " Piensa que es solo el comienzo", " Luego, la nada", " No puede hacer más", " Es el fin", " Pero el #h# no lo sabe","","","","","","","","",""," Mejor callar", " La historia se repite una y otra vez"," El tiempo queda suspendido"," Algo parece desmoronarse"," Y así se va diluyendo", " Nadie espera nada", " ¿Es esto el comienzo? Tal vez", " Esto no se repetirá jamás", " Solo queda una cosa: #causa2#", " Cierra los ojos y se hunde en un sueño #adj#", " No puede hacer más", " Es un comienzo extraño", " No sabe explicarlo"," Mejor callar"," Promesas #adja#s", " Vida #adja#"],
+	"finalviaje":[" Y así se dilata el espacio", " Final de viaje", " Pero el #h# no puede detenerse"," El tiempo queda suspendido"," Algo parece desmoronarse"," Así se va diluyendo", " Nadie lo espera", " Es el comienzo o el final,", " Esto no se repetirá jamás", " Solo queda una cosa: #causa2#,", " Cierra los ojos y se hunde en un sueño #adj#", " Todo va quedando en el olvido", " No puede hacer más", " No sabe explicarlo"," El #h# se transforma"," Mejor callar"," Promesas #adja#s", " La vida #adja#"]
+
+}
